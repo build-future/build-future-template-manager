@@ -1,0 +1,18 @@
+{
+  "name": "build-future-template-manager",
+  "version": "1.0.0",
+  "description": "A template manager which offer access to different template projects which makes it better to build your projects on some existed resources.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "buildfuture",
+    "web",
+    "front",
+    "nodejs",
+    "template"
+  ],
+  "author": "samuelzuuka",
+  "license": "ISC"
+}
