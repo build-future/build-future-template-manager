@@ -1,0 +1,22 @@
+[
+  {
+    "name": "build-future-simple-template",
+    "author": "samuelzuuka",
+    "email": "samuelzuuka.com",
+    "create_time": "2016-07-01 10:00:00",
+    "mod_time": "2016-07-23 12:00:00",
+    "desc":"",
+    "keywords":[
+      "template",
+      "workflow",
+      "front",
+      "web",
+      "grunt",
+      "scss"
+    ],
+    "required_privliege":"public follower author supervisor buildfuture"
+  },
+  {
+    "name": "build-future-ie8shiv-template"
+  }
+]

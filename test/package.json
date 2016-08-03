@@ -4,7 +4,8 @@
   "description": "A template manager which offer access to different template projects which makes it better to build your projects on some existed resources.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo 'no test command specified' ",
+    "ls"
   },
   "keywords": [
     "buildfuture",
